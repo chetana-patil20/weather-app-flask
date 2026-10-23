@@ -1,0 +1,5 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\nenv/\n.env\n.vscode/\n.idea/\n*.log\n.DS_Store\n
+.env
+.venv/
+__pycache__/
+*.pyc
